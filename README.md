@@ -1,5 +1,7 @@
 # Paperplane
 
+![Paperplane landscape cover](assets/paperplane-cover.png)
+
 A browser-only, local-first whiteboard powered by the actual MIT-licensed Excalidraw editor. No Docker, server database, account, or API key.
 
 Paperplane's application source is released under the MIT license. See `LICENSE` and `THIRD_PARTY_NOTICES.md` for licensing and dependency attribution.
